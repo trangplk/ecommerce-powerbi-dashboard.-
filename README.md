@@ -23,5 +23,6 @@ There are 8 pages in the dashboard. Below is the description of each page's usag
 - **Platform breakdown (1):** Platform comparison using key sales metrics.
 - **Platform breakdown (2):** Time series comparison across 5 platforms over NMV, canceled & return rate, average daily sales, order count.
 - **Cancelled & Returned Orders:** Total number of cancelled & returned order and popular reasons for cancellation.
+- **Customers' cancellation:** Information of customers who canceled products, number of orders cancelled by those account, cancellation rate and reasons.
 - **Profit Breakdown:** Detailed breakdown of profitability after subtracting different costs of operations.
 - **Product Performance:** Sales performance on product level across all platforms
