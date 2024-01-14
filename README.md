@@ -1,5 +1,4 @@
 # ecommerce-powerbi-dashboard.-
-Based on the Power BI dashboard for a retail company aggregating data from five e-commerce platforms, here is a suggested README file for your GitHub portfolio:
 
 ---
 
